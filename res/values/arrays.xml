@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="head_photo">
+        <item>@drawable/p1</item>
+        <item>@drawable/p2</item>
+        <item>@drawable/p3</item>
+        <item>@drawable/p4</item>
+        <item>@drawable/p5</item>
+        <item>@drawable/p6</item>
+        <item>@drawable/p7</item>
+        <item>@drawable/p8</item>
+        <item>@drawable/p9</item>
+        <item>@drawable/p10</item>    
+    </array>
+    
+    <string-array name="article">
+        <item>@string/p1</item>
+        <item>@string/p2</item>
+        <item>@string/p3</item>
+        <item>@string/p4</item>
+        <item>@string/p5</item>
+        <item>@string/p6</item>
+        <item>@string/p7</item>
+        <item>@string/p8</item>
+        <item>@string/p9</item>
+        <item>@string/p10</item>
+    </string-array>
+    
+    <string-array name="name">
+        <item>Cherish</item>
+        <item>C</item>
+        <item>H</item>
+        <item>E</item>
+        <item>R</item>
+        <item>I</item>
+        <item>S</item>
+        <item>H</item>
+        <item>ZHEN</item>
+        <item>XI</item> 
+    </string-array>
+    
+
+</resources>
